@@ -1,2 +1,2 @@
 # lab1
-just trying new stuff
+I am editing the README file. Adding some more details about the project description.
